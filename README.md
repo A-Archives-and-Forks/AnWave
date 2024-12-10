@@ -38,7 +38,7 @@ https://youtu.be/AnxMkhC1bHg?si=cvi8pWJhVf9ik73R
 * Simple File Backup Tool: 1.18.1401.150
 
 ### ※AnWave 2024 Split Feature Release
-* Microsoft Defender Uninstaller version 1.2.11.160
+* Microsoft Defender Uninstaller version 1.3.25.342
 * Microsoft Dolby Digital Atmos Pack version 10.0.22621.4317
 
 [AnWave 2024 Split Feature Release Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-Split)
