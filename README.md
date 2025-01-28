@@ -44,6 +44,8 @@ https://youtu.be/AnxMkhC1bHg?si=cvi8pWJhVf9ik73R
 
 [AnWave 2024 Split Feature Release Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-Split)
 
+[NVIDIA DLSS Global Override Mode version 1.0.8.25 Standalone Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS)
+
 ### ※Release
 
 Download the latest release:https://github.com/SimonMacer/AnWave/releases
