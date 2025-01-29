@@ -24,15 +24,15 @@ https://youtu.be/AnxMkhC1bHg?si=cvi8pWJhVf9ik73R
 * 64-bit operating system
 
 ### ※AnWave Sub-Features Version
-* AnWave: 5.60.12.10
+* AnWave: 5.62.15.30
 * AnWave Assistant: 1.5.20.61
-* AnWave Advanced Cleanup Utility: 3.10.1290
+* AnWave Advanced Cleanup Utility: 3.10.1308
 * AnWave Windows Key-Point: 3.70.180.35
 * AMD Radeon Software Customize Setup: 6.54.20.11
 * NVIDIA Power Management Panel and Service: 3.55.565.92
 * Windows Update Service Extended: 10.0.26100.2128
 * Microsoft Defender Uninstaller: 1.3.25.342
-* Microsoft Dolby Digital Atmos Pack: 10.0.22621.4460
+* Microsoft Dolby Digital Atmos Pack: 10.0.22621.4602
 * Super Command Line Startup: ----
 * Windows Error Report Collector: 10.0.26100.1557
 * Simple File Backup Tool: 1.18.1401.150
