@@ -24,7 +24,7 @@ https://youtu.be/AnxMkhC1bHg?si=cvi8pWJhVf9ik73R
 * 64-bit operating system
 
 ### ※AnWave Sub-Features Version
-* AnWave: 5.80.10.52
+* AnWave: 5.81.23.40
 * AnWave Assistant: 1.5.20.61
 * AnWave Advanced Cleanup Utility: 3.10.1308
 * AnWave Windows Key-Point: 3.70.180.35
@@ -36,7 +36,7 @@ https://youtu.be/AnxMkhC1bHg?si=cvi8pWJhVf9ik73R
 * Super Command Line Startup: ----
 * Windows Error Report Collector: 10.0.26100.1557
 * Simple File Backup Tool: 1.18.1401.150
-* NVIDIA DLSS Global Override Mode: 1.3.2.55
+* NVIDIA DLSS Global Override Mode: 1.3.10.22
 
 ### ※AnWave 2024 Split Feature Release
 * Microsoft Defender Uninstaller version 1.3.25.342
@@ -44,7 +44,7 @@ https://youtu.be/AnxMkhC1bHg?si=cvi8pWJhVf9ik73R
 
 [AnWave 2024 Split Feature Release Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-Split)
 
-[NVIDIA DLSS Global Override Mode version 1.3.2.55 Standalone Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS)
+[NVIDIA DLSS Global Override Mode version 1.3.10.22 Standalone Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS)
 
 ### ※Release
 
