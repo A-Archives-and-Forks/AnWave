@@ -11,7 +11,7 @@ https://youtu.be/AnxMkhC1bHg?si=cvi8pWJhVf9ik73R
 
 ### ※AnWave All in One Features
 * 【Main Feature】AnWave UI - Manage downloaded AMD/NVIDIA drivers
-* 【Main Feature】AMD Radeon Software Customize Setup:https://github.com/SimonMacer/AnWave/discussions/43
+* 【Main Feature】AMD Radeon Software Customize Setup →【Documentation】:https://github.com/SimonMacer/AnWave/discussions/43
 * 【Main Feature】Advanced Cleanup Utility
 * 【Main Feature】NVIDIA Power Management
 * 【Main Feature】Windows Key-Point
