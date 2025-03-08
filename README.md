@@ -33,7 +33,7 @@ https://youtu.be/AnxMkhC1bHg?si=cvi8pWJhVf9ik73R
 * Windows Update Service Extended ⌂ 10.0.26100.2128
 * Microsoft Defender Uninstaller ⌂ 1.3.25.342
 * Microsoft Dolby Digital Atmos Pack ⌂ 10.0.22621.4602
-* Super Command Line Startup: ----
+* Super Command Line Startup ⌂ ----
 * Windows Error Report Collector ⌂ 10.0.26100.1557
 * Simple File Backup Tool ⌂ 1.18.1401.150
 * NVIDIA DLSS Global Override Mode ⌂ 1.4.12.10
