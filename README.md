@@ -11,7 +11,7 @@ https://youtu.be/AnxMkhC1bHg?si=cvi8pWJhVf9ik73R
 
 ### ※AnWave All in One Features
 * 【Main Feature】AnWave UI - Manage downloaded AMD/NVIDIA drivers
-* 【Main Feature】AMD Radeon Software Customize Setup →【Documentation】:https://github.com/SimonMacer/AnWave/discussions/43
+* 【Main Feature】AMD Radeon Software Customize Setup →【Documentation】https://github.com/SimonMacer/AnWave/discussions/43
 * 【Main Feature】Advanced Cleanup Utility
 * 【Main Feature】NVIDIA Power Management
 * 【Main Feature】Windows Key-Point
@@ -24,19 +24,19 @@ https://youtu.be/AnxMkhC1bHg?si=cvi8pWJhVf9ik73R
 * 64-bit operating system
 
 ### ※AnWave Sub-Features Version
-* AnWave: 5.100.11.20
-* AnWave Assistant: 1.5.20.61
-* AnWave Advanced Cleanup Utility: 3.12.1655
-* AnWave Windows Key-Point: 3.71.182.39
-* AMD Radeon Software Customize Setup: 24.30.37.25
-* NVIDIA Power Management Panel and Service: 3.55.565.92
-* Windows Update Service Extended: 10.0.26100.2128
-* Microsoft Defender Uninstaller: 1.3.25.342
-* Microsoft Dolby Digital Atmos Pack: 10.0.22621.4602
+* AnWave ⌂ 5.100.11.20
+* AnWave Assistant ⌂ 1.5.20.61
+* AnWave Advanced Cleanup Utility ⌂ 3.12.1655
+* AnWave Windows Key-Point ⌂ 3.71.182.39
+* AMD Radeon Software Customize Setup: ⌂ 24.30.37.25
+* NVIDIA Power Management Panel and Service ⌂ 3.55.565.92
+* Windows Update Service Extended ⌂ 10.0.26100.2128
+* Microsoft Defender Uninstaller ⌂ 1.3.25.342
+* Microsoft Dolby Digital Atmos Pack ⌂ 10.0.22621.4602
 * Super Command Line Startup: ----
-* Windows Error Report Collector: 10.0.26100.1557
-* Simple File Backup Tool: 1.18.1401.150
-* NVIDIA DLSS Global Override Mode: 1.4.12.10
+* Windows Error Report Collector ⌂ 10.0.26100.1557
+* Simple File Backup Tool ⌂ 1.18.1401.150
+* NVIDIA DLSS Global Override Mode ⌂ 1.4.12.10
 
 ### ※AnWave 2024 Split Feature Release
 * Microsoft Defender Uninstaller version 1.3.25.342
