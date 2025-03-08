@@ -28,7 +28,7 @@ https://youtu.be/AnxMkhC1bHg?si=cvi8pWJhVf9ik73R
 * AnWave Assistant ⌂ 1.5.20.61
 * AnWave Advanced Cleanup Utility ⌂ 3.12.1655
 * AnWave Windows Key-Point ⌂ 3.71.182.39
-* AMD Radeon Software Customize Setup: ⌂ 24.30.37.25
+* AMD Radeon Software Customize Setup ⌂ 24.30.37.25
 * NVIDIA Power Management Panel and Service ⌂ 3.55.565.92
 * Windows Update Service Extended ⌂ 10.0.26100.2128
 * Microsoft Defender Uninstaller ⌂ 1.3.25.342
