@@ -40,7 +40,7 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 
 ### ※AnWave 2024 Split Feature Release
 * Microsoft Defender Uninstaller version 1.3.25.342
-* Microsoft Dolby Digital Atmos Pack version 10.0.22621.4317
+* Microsoft Dolby Digital Atmos Pack version 10.0.22621.5039
 
 [AnWave 2024 Split Feature Release Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-Split)
 
