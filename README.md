@@ -25,17 +25,29 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 
 ### ※AnWave Sub-Features Version
 ※ AnWave version 5.118.12.20 (Branch version 5.118)
+
 ※ AnWave Assistant version 1.6.1.22
+
 ※ AnWave Advanced Cleanup Utility version 3.20.2207
+
 ※ AnWave Windows Key-Point version 3.75.210.41
+
 ※ AMD Radeon Software Customize Setup version 24.30.45.12
+
 ※ NVIDIA DLSS Global Override Mode version 1.4.12.10
+
 ※ NVIDIA Power Management Panel and Service version 3.55.565.92
+
 ※ Windows Update Service Extended version 10.0.26100.2128
+
 ※ Microsoft Defender Uninstaller version 1.3.25.342
+
 ※ Microsoft Dolby Digital Atmos Pack version 10.0.22621.5039
+
 ※ Windows Error Report Collector version 10.0.26100.1557
+
 ※ Simple File Backup Tool version 1.18.1401.150
+
 ※ Built-in 7z v1.20.0.57, External 7-Zip v24.08 (2024-08-11)
 
 ### ※AnWave 2024 Split Feature Release
