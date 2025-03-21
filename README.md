@@ -24,7 +24,7 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 * 64-bit operating system
 
 ### ※AnWave Sub-Features Version
-※ AnWave version 5.118.12.20 (Branch version 5.118)
+※ AnWave version 5.120.13.21 (Branch version 5.120)
 
 ※ AnWave Assistant version 1.6.1.22
 
@@ -32,7 +32,7 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 
 ※ AnWave Windows Key-Point version 3.75.210.41
 
-※ AMD Radeon Software Customize Setup version 24.30.45.12
+※ AMD Radeon Software Customize Setup version 24.30.50.25
 
 ※ NVIDIA DLSS Global Override Mode version 1.4.12.10
 
