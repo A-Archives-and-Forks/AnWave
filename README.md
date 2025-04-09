@@ -24,13 +24,13 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 * 64-bit operating system
 
 ### ※AnWave Sub-Features Version
-※ AnWave version 5.132.14.28 (Branch version 5.132)
+※ AnWave version 5.135.4.10 (Branch version 5.135)
 
 ※ AnWave Assistant version 1.6.1.22
 
 ※ AnWave Advanced Cleanup Utility version 3.20.2230
 
-※ AnWave Windows Key-Point version 3.81.241.60
+※ AnWave Windows Key-Point version 3.82.202.51
 
 ※ AMD Radeon Software Customize Setup version 24.35.16.20
 
@@ -42,7 +42,7 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 
 ※ Microsoft Defender Uninstaller version 1.3.25.342
 
-※ Microsoft Dolby Digital Atmos Pack version 10.0.22621.5039
+※ Microsoft Dolby Digital Atmos Pack version 10.0.22621.5189
 
 ※ Windows Error Report Collector version 10.0.26100.1557
 
