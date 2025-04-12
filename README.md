@@ -24,7 +24,7 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 * 64-bit operating system
 
 ### ※AnWave Sub-Features Version
-※ AnWave version 5.140.7.12 (Branch version 5.140)
+※ AnWave version 5.141.8.26 (Branch version 5.141)
 
 ※ AnWave Assistant version 1.6.1.22
 
