@@ -24,11 +24,11 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 * 64-bit operating system
 
 ### ※AnWave Sub-Features Version
-※ AnWave version 5.155.9.13 (Branch version 5.155)
+※ AnWave version 6.0.10.22 (Branch version 6.0)
 
 ※ AnWave Assistant version 1.6.1.22
 
-※ AnWave Advanced Cleanup Utility version 3.24.1502
+※ AnWave Advanced Cleanup Utility version 3.28.1915
 
 ※ AnWave Windows Key-Point version 3.96.140.55
 
@@ -42,9 +42,9 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 
 ※ Microsoft Defender Uninstaller version 1.3.25.342
 
-※ Microsoft Dolby Digital Atmos Pack version 10.0.22621.5189
+※ Microsoft Dolby Digital Atmos Pack version 10.0.22621.5262
 
-※ Windows Task Manager Upgrade (Preview) version 10.0.26100.3624
+※ Windows Task Manager Upgrade (Preview) version 10.0.26100.3624 (Removed)
 
 ※ Windows Error Report Collector version 10.0.26100.1557
 
