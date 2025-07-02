@@ -24,7 +24,7 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 * 64-bit operating system
 
 ### ※AnWave Sub-Features Version
-※ AnWave version 6.22.11.45 (Branch version 6.22)
+※ AnWave version 6.25.7.31 (Branch version 6.25)
 
 ※ AnWave Assistant version 1.6.1.22
 
@@ -34,7 +34,7 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 
 ※ AMD Radeon Software Customize Setup version 25.10.32.60
 
-※ NVIDIA DLSS Global Override Mode version 1.4.12.10
+※ NVIDIA DLSS Global Override Mode version 1.5.11.28
 
 ※ NVIDIA Power Management Panel and Service version 3.55.576.53
 
@@ -56,7 +56,7 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 
 [AnWave 2024 Split Feature Release Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-Split)
 
-[NVIDIA DLSS Global Override Mode version 1.4.12.10 Standalone Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS)
+[NVIDIA DLSS Global Override Mode version 1.5.11.28 Standalone Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS)
 
 ### ※Release
 
