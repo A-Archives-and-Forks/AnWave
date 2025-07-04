@@ -24,7 +24,7 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 * 64-bit operating system
 
 ### ※AnWave Sub-Features Version
-※ AnWave version 6.30.2.45 (Branch version 6.30)
+※ AnWave version 6.32.4.10 (Branch version 6.32)
 
 ※ AnWave Assistant version 1.6.1.22
 
@@ -42,7 +42,16 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 
 ※ Microsoft Defender Uninstaller version 1.3.25.342
 
-※ Microsoft Dolby Digital Atmos Pack version 10.0.22621.5472
+※ Dolby AC-3 and WordPad FoD Enablement Package version 24H2
+
+※ Microsoft Dolby Digital Atmos Pack version 10.0.22621.5472 (Deprecated)
+
+This will be the last update and is deprecated. We recommend that you use Dolby AC-3 and WordPad FoD Enablement Package.
+> Bringing back Dolby AC-3 to Windows 11 24H2
+【System】>【Features on Demand Optional】>【Bringing back Dolby AC-3】
+
+> Bringing back WordPad to Windows 11 24H2
+【System】>【Features on Demand Optional】>【Bringing back WordPad】
 
 ※ Windows Error Report Collector version 10.0.26100.1557
 
@@ -52,7 +61,7 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 
 ### ※AnWave 2024 Split Feature Release
 * Microsoft Defender Uninstaller version 1.3.25.342
-* Microsoft Dolby Digital Atmos Pack version 10.0.22621.5039
+* Microsoft Dolby Digital Atmos Pack version 10.0.22621.5039 (Deprecated)
 
 [AnWave 2024 Split Feature Release Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-Split)
 
