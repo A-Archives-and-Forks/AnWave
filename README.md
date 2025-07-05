@@ -24,7 +24,7 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 * 64-bit operating system
 
 ### ※AnWave Sub-Features Version
-※ AnWave version 6.32.4.10 (Branch version 6.32)
+※ AnWave version 6.35.6.13 (Branch version 6.35)
 
 ※ AnWave Assistant version 1.6.1.22
 
@@ -57,7 +57,7 @@ This will be the last update and is deprecated. We recommend that you use Dolby 
 
 ※ Simple File Backup Tool version 1.18.1401.150
 
-※ Built-in 7z v1.20.0.57, External 7-Zip v24.08 (2024-08-11)
+※ Built-in 7z v1.20.0.57, External 7-Zip v24.09 (2024-11-29)
 
 ### ※AnWave 2024 Split Feature Release
 * Microsoft Defender Uninstaller version 1.3.25.342
