@@ -77,6 +77,10 @@ AnWave is portable. Download the AnWave executable file to install AnWave to a s
 
 ![AnWave Setup](https://github.com/user-attachments/assets/4d0cd4e8-573e-4883-82a4-b9de0f55d982 "AnWave Setup")
 
+[How to extract AMD/NVIDIA driver package Demo Gif 1](https://i.meee.com.tw/RMOzG7T.gif)
+
+[How to extract AMD Software in AMD Radeon Software Customize Setup Demo Gif 2](https://i.meee.com.tw/0K3xku6.gif)
+
 ### **※[Configure Windows Update for Business (繁體中文)](https://github.com/SimonMacer/AnWave/blob/AnWabe-Stable/ConfWU.md#configure-windows-update-for-business)**
 * **[【設定商務用 Windows Update】](https://github.com/SimonMacer/AnWave/blob/AnWabe-Stable/ConfWU.md#%E8%A8%AD%E5%AE%9A%E5%95%86%E5%8B%99%E7%94%A8-windows-update)**
 * **[For Windows 10/11 家用版 (Home) - 停用【Windows Update 的驅動程式更新模組功能】以防止驅動程式被覆蓋](https://github.com/SimonMacer/AnWave/blob/AnWabe-Stable/ConfWU.md#for-windows-1011-%E5%AE%B6%E7%94%A8%E7%89%88-home---%E5%81%9C%E7%94%A8windows-update-%E7%9A%84%E9%A9%85%E5%8B%95%E7%A8%8B%E5%BC%8F%E6%9B%B4%E6%96%B0%E6%A8%A1%E7%B5%84%E5%8A%9F%E8%83%BD%E4%BB%A5%E9%98%B2%E6%AD%A2%E9%A9%85%E5%8B%95%E7%A8%8B%E5%BC%8F%E8%A2%AB%E8%A6%86%E8%93%8B)**
