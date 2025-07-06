@@ -24,11 +24,11 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 * 64-bit operating system
 
 ### ※AnWave Sub-Features Version
-※ AnWave version 6.38.11.20 (Branch version 6.38)
+※ AnWave version 6.40.7.22 (Branch version 6.40)
 
 ※ AnWave Assistant version 1.6.1.22
 
-※ AnWave Advanced Cleanup Utility version 3.45.1202
+※ AnWave Advanced Cleanup Utility version 3.45.1305
 
 ※ AnWave Windows Key-Point version 4.1.10.34
 
