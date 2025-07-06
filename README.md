@@ -24,7 +24,7 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 * 64-bit operating system
 
 ### ※AnWave Sub-Features Version
-※ AnWave version 6.35.6.13 (Branch version 6.35)
+※ AnWave version 6.38.11.20 (Branch version 6.38)
 
 ※ AnWave Assistant version 1.6.1.22
 
@@ -32,7 +32,7 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 
 ※ AnWave Windows Key-Point version 4.1.10.34
 
-※ AMD Radeon Software Customize Setup version 25.10.32.80
+※ AMD Radeon Software Customize Setup version 25.10.34.12
 
 ※ NVIDIA DLSS Global Override Mode version 1.5.11.28
 
@@ -57,7 +57,7 @@ This will be the last update and is deprecated. We recommend that you use Dolby 
 
 ※ Simple File Backup Tool version 1.18.1401.150
 
-※ Built-in 7z v1.20.0.57, External 7-Zip v24.09 (2024-11-29)
+※ Built-in 7z v1.20.0.57, External 7-Zip v25.00 (2025-07-05)
 
 ### ※AnWave 2024 Split Feature Release
 * Microsoft Defender Uninstaller version 1.3.25.342
