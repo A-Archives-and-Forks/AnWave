@@ -16,7 +16,6 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 * 【Main Feature】NVIDIA Power Management
 * 【Main Feature】Windows Key-Point
 * 【Main Feature】Microsoft Defender Uninstaller
-* 【Main Feature】Windows Error Report Collector
 
 ### ※Requirements
 * Microsoft .NET Framework 4.5 or newer
