@@ -24,21 +24,21 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 * 64-bit operating system
 
 ### ※AnWave Sub-Features Version
-※ AnWave version 6.42.15.10 (Branch version 6.42)
+※ AnWave version 6.45.12.30 (Branch version 6.45)
 
 ※ AnWave Assistant version 1.7.10.0
 
 ※ AnWave Advanced Cleanup Utility version 3.45.1305
 
-※ AnWave Windows Key-Point version 4.1.10.36
+※ AnWave Windows Key-Point version 4.1.15.40
 
 ※ AMD Radeon Software Customize Setup version 25.10.34.12
 
-※ NVIDIA DLSS Global Override Mode version 1.8.2.20
+※ NVIDIA DLSS Global Override Mode version 1.8.3.10
 
 ※ NVIDIA Power Management Panel and Service version 3.55.576.62
 
-※ Windows Update Service Extended version 10.0.26100.4505
+※ Windows Update Service Extended version 10.0.26100.4510
 
 ※ Microsoft Defender Uninstaller version 1.3.25.342
 
@@ -65,7 +65,7 @@ This will be the last update and is deprecated. We recommend that you use Dolby 
 
 [AnWave 2024 Split Feature Release Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-Split)
 
-[NVIDIA DLSS Global Override Mode version 1.8.2.20 Standalone Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS)
+[NVIDIA DLSS Global Override Mode version 1.8.3.10 Standalone Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS)
 
 ### ※Release
 
