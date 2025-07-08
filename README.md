@@ -1,17 +1,9 @@
 AnWave 2024
 ===================================================
 
-### ※Introduction
---------
-
-This is a personal project developed using Visual Studio 2022 C#. Includes AMD Radeon Software Customize Setup, For customizing AMD Software: Adrenalin Edition installation. and NVIDIA Power Management, For used to create GPU power profiles for each application. and Microsoft Defender Uninstaller, For used to remove Microsoft Defender components. and Windows Key-Point, Best Windows 10 or 11 Settings Options Organizer. and AnWave Advanced Cleanup Utility, Cleanup AMD and NVIDIA graphics card drivers and application utilities.
-
-### ※AnWave Demo
-[https://youtu.be/AnxMkhC1bHg?si=cvi8pWJhVf9ik73R](https://youtu.be/bqJye1MkG7M?si=zYHwjnyoag0IzYRg)
-
 ### ※AnWave All in One Features
 * 【Main Feature】AnWave UI - Manage downloaded AMD/NVIDIA drivers
-* 【Main Feature】AMD Radeon Software Customize Setup →【Documentation】https://github.com/SimonMacer/AnWave/discussions/43
+* 【Main Feature】AMD Radeon Software Customize Setup
 * 【Main Feature】Advanced Cleanup Utility
 * 【Main Feature】NVIDIA Power Management
 * 【Main Feature】Windows Key-Point
@@ -22,114 +14,121 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 * Microsoft Windows 10 or newer
 * 64-bit operating system
 
-### ※AnWave Sub-Features Version
-※ AnWave version 6.53.12.10 (Branch version 6.53)
+### ※Introduction
+--------
 
-※ AnWave Assistant version 1.7.10.0
+This is a personal project developed using Visual Studio 2022 C#. Includes AMD Radeon Software Customize Setup, For customizing AMD Software: Adrenalin Edition installation. and NVIDIA Power Management, For used to create GPU power profiles for each application. and Microsoft Defender Uninstaller, For used to remove Microsoft Defender components. and Windows Key-Point, Best Windows 10 or 11 Settings Options Organizer. and AnWave Advanced Cleanup Utility, Cleanup AMD and NVIDIA graphics card drivers and application utilities.
 
-※ AnWave Advanced Cleanup Utility version 3.45.1320
-
-※ AnWave Windows Key-Point version 4.50.0.103
-
-※ AMD Radeon Software Customize Setup version 25.10.34.12
-
-※ NVIDIA DLSS Global Override Mode version 1.8.13.30
-
-※ NVIDIA Power Management Panel and Service version 3.55.576.62
-
-※ Microsoft Defender Uninstaller version 1.4.0.15
-
-※ Dolby AC-3 and WordPad FoD Enablement Package version 24H2
-
-※ Microsoft Dolby Digital Atmos Pack version 10.0.22621.5472 (Deprecated)
-
-This will be the last update and is deprecated. We recommend that you use Dolby AC-3 and WordPad FoD Enablement Package.
-> Bringing back Dolby AC-3 to Windows 11 24H2
-【System】>【Features on Demand Optional】>【Bringing back Dolby AC-3】
-
-> Bringing back WordPad to Windows 11 24H2
-【System】>【Features on Demand Optional】>【Bringing back WordPad】
-
-※ Simple File Backup Tool version 1.18.1401.150
-
-※ Built-in 7z v1.20.0.57, External 7-Zip v25.00 (2025-07-05)
-
-### ※AnWave 2024 Split Feature Release
-* Microsoft Defender Uninstaller version 1.4.0.15
-
-[AnWave 2024 Split Feature Release Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-Split)
-
-[NVIDIA DLSS Global Override Mode version 1.8.13.30 Standalone Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS)
+### ※AnWave Demo
+[https://youtu.be/AnxMkhC1bHg?si=cvi8pWJhVf9ik73R](https://youtu.be/bqJye1MkG7M?si=zYHwjnyoag0IzYRg)
 
 ### ※Release
 
-Download the latest release:https://github.com/SimonMacer/AnWave/releases
+[Download the latest release](https://github.com/SimonMacer/AnWave/releases)
 
-### ※How to use AnWave?
+### ※Customize your AMD Software: Adrenalin Edition (Or use AnWave to install NVIDIA drivers)
+Download AMD or NVIDIA drivers
 
-AnWave is portable. Download the AnWave executable file to install AnWave to a specified location.
+> Note: Please download the offline version of the driver.
 
-![AnWave Setup](https://github.com/user-attachments/assets/4d0cd4e8-573e-4883-82a4-b9de0f55d982 "AnWave Setup")
+【AMD】[AMD Radeon™ Series graphics card driver](https://www.amd.com/en/support/download/drivers.html)
 
-[How to extract AMD/NVIDIA driver package Demo Gif 1](https://i.meee.com.tw/RMOzG7T.gif)
+【NVIDIA】[NVIDIA Driver download](https://www.nvidia.com/Download/index.aspx?lang=en-us)
 
-[How to extract AMD Software in AMD Radeon Software Customize Setup Demo Gif 2](https://i.meee.com.tw/0K3xku6.gif)
+Installing AMD Software: Adrenalin Edition or GeForce Game Ready
+Set the path to the AMD/NVIDIA driver. Press the [Extract] button to start decompressing. After a while, press the [Custom] button to open the AMD Radeon Software Customize Setup interface or press [Install] to start installing the driver.
 
-### **※[Configure Windows Update for Business (繁體中文)](https://github.com/SimonMacer/AnWave/blob/AnWabe-Stable/ConfWU.md#configure-windows-update-for-business)**
-* **[【設定商務用 Windows Update】](https://github.com/SimonMacer/AnWave/blob/AnWabe-Stable/ConfWU.md#%E8%A8%AD%E5%AE%9A%E5%95%86%E5%8B%99%E7%94%A8-windows-update)**
-* **[For Windows 10/11 家用版 (Home) - 停用【Windows Update 的驅動程式更新模組功能】以防止驅動程式被覆蓋](https://github.com/SimonMacer/AnWave/blob/AnWabe-Stable/ConfWU.md#for-windows-1011-%E5%AE%B6%E7%94%A8%E7%89%88-home---%E5%81%9C%E7%94%A8windows-update-%E7%9A%84%E9%A9%85%E5%8B%95%E7%A8%8B%E5%BC%8F%E6%9B%B4%E6%96%B0%E6%A8%A1%E7%B5%84%E5%8A%9F%E8%83%BD%E4%BB%A5%E9%98%B2%E6%AD%A2%E9%A9%85%E5%8B%95%E7%A8%8B%E5%BC%8F%E8%A2%AB%E8%A6%86%E8%93%8B)**
-* **[For Windows 10/11 專業版 (Pro) 或更高級的版本 - 啟用【不包含 Windows 更新的驅動程式】原則設定以防止驅動程式被覆蓋](https://github.com/SimonMacer/AnWave/blob/AnWabe-Stable/ConfWU.md#for-windows-1011-%E5%B0%88%E6%A5%AD%E7%89%88-pro-%E6%88%96%E6%9B%B4%E9%AB%98%E7%B4%9A%E7%9A%84%E7%89%88%E6%9C%AC---%E5%95%9F%E7%94%A8%E4%B8%8D%E5%8C%85%E5%90%AB-windows-%E6%9B%B4%E6%96%B0%E7%9A%84%E9%A9%85%E5%8B%95%E7%A8%8B%E5%BC%8F%E5%8E%9F%E5%89%87%E8%A8%AD%E5%AE%9A%E4%BB%A5%E9%98%B2%E6%AD%A2%E9%A9%85%E5%8B%95%E7%A8%8B%E5%BC%8F%E8%A2%AB%E8%A6%86%E8%93%8B)**
+* In the [Executable File Package (*.exe)] Tab, select a version from [Driver Version] menu to start the installation.
+
+* In the [Extracted Packed] Tab, select a unpacked driver from tree view to start the installation.
+
+![AnWave Install Drivers](https://i.meee.com.tw/Oh9AhEx.png "AnWave Install Drivers")
+
+### ※Advanced Cleanup Utility
+In the AnWave window menu [Feature] > [Advanced Cleanup Utility Center], open the AnWave Advanced Cleanup Utility Center window and select an option for the cleaning process.
+
+* Supports for AMD Ryzen™ Chipset Driver, AMD Software: Adrenalin Edition, AMD Software: PRO Edition, AMD ROCm™ Software, NVIDIA GeForce Game Ready Driver, NVIDIA Studio Driver, NVIDIA Geforce Experience, NVIDIA App, NVIDIA Broadcast, NVIDIA FrameView, NVIDIA CUDA Toolkit and NVIDIA Power Management cleanup.
+
+![Advanced Cleanup Utility](https://i.meee.com.tw/oL0FsIv.png "Advanced Cleanup Utility")
+
+### ※NVIDIA DLSS Global Override Mode
+Allow you to update DLSS games and apps to use the latest DLSS models.
+
+DLSS Global Override Mode Recommend
+
+* NVIDIA GeForce R566.36 or later.
+
+* NVIDIA DLSS version 3.1.11 or later.
+
+#### HOW TO USE NVIDIA DLSS Global Override Mode
+1. Download [AnWave](https://github.com/SimonMacer/AnWave/releases) or [NVIDIA DLSS Global Override Mode Standalone](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-DLSS).
+
+2. [Download NVIDIA DLSS DLL](https://www.techpowerup.com/download/nvidia-dlss-dll/)
+
+3. [Download NVIDIA DLSS 3 Frame Generation DLL](https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/)
+
+4. [Download NVIDIA DLSS 3.5 Ray Reconstruction DLL](https://www.techpowerup.com/download/nvidia-dlss-3-ray-reconstruction-dll/)
+
+5. [Download Streamline Integration Framework Files](https://github.com/NVIDIAGameWorks/Streamline)
+
+6. Extract and place these DLSS *.dll files in the same location as nvidiaDlssGlom.exe.
+
+7. Run nvidiaDlssGlom.exe and click 'Update' button.
+
+![NVIDIA DLSS Global Override Mode](https://i.meee.com.tw/DZpuNTc.png "NVIDIA DLSS Global Override Mode")
+
+### ※Restore Microsoft Dolby Digital Decoder/Encoder MFT (and WordPad) support in Windows 11, version 24H2
+Microsoft has removed the AC-3 codec (Dolby Digital) and WordPad features in Windows 11 24H2 or higher builds. Now, you can use this toolkit to install AC-3 codec (Dolby Digital) and WordPad FoD and re-enable these features.
+
+【1】Dolby AC-3 Features On Demand for Microsoft Windows (Server) operating system version 24H2.
+
+【2】WordPad Features On Demand for Microsoft Windows (Server) operating system version 24H2.
+
+1. Download [AnWave](https://github.com/SimonMacer/AnWave/releases).
+
+2. Run AnWave.exe. Menu > System > Features on Demand Optional > Bringing back Dolby AC-3 or Bringing back WordPad.
+
+> Playing Dolby Digital audio using Microsoft.ZuneMusic (aka Microsoft Media Player) requires the installation of Microsoft Dolby Audio Extensions. [Download](https://drive.google.com/file/d/156Wa7XQ6SMSvEhML20VPyt5ar8Z2_uqz/view?usp=sharing)
+
+![Features on Demand Optional](https://i.meee.com.tw/E6UVmXK.png "Features on Demand Optional")
+
+![Bringing back Dolby AC-3](https://i.meee.com.tw/n71R4g1.png "Bringing back Dolby AC-3")
+
+### ※Microsoft Defender Uninstaller
+Microsoft Defender Uninstaller is a utility tool for uninstalling Windows Defender. Microsoft Defender Uninstaller is included with AnWave, and a standalone version is also available for download. [Microsoft Defender Uninstaller Standalone Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-Split)
+
+See 【AnWave】[Microsoft Defender Uninstaller](https://github.com/SimonMacer/AnWave/discussions/22)
+
+### ※Disable Memory Integrity and VBS Enablement in Windows 11, version 24H2
+
+HOW TO: Run AnWave.exe. Menu > System > Disable Memory Integrity and VBS Enablement.
+
+![Disable Memory Integrity and VBS Enablement](https://i.meee.com.tw/EIlAtaL.png "Disable Memory Integrity and VBS Enablement")
+
+![Disable Memory Integrity and VBS Enablement](https://i.meee.com.tw/L4KJBLv.png "Disable Memory Integrity and VBS Enablement")
+
+### ※Install Legacy DX11 driver into Adrenalin 24.x.x and Disable DXNAVI on RDNA2 architecture
+
+HOW-TO
+
+[1] Download official Adrenalin 24.1.1 WHQL or latest version.
+
+[2] Download [AnWave latest version](https://github.com/SimonMacer/AnWave/releases).
+
+[3] In AMD Radeon Software Customize Setup, Advanced Tab > Additional > Enable Install Legacy DirectX 11 UMD Support and Pop-up Interface Allows Users to Configure DirectX 11 API Mode options in Experimental group box. and install.
+
+> Or in Applied Install Profile, Enable Install Legacy DirectX 11 UMD Support and Pop-up Interface Allows Users to Configure DirectX 11 API Mode options. and install.
+
+![Applied Install Profile](https://i.meee.com.tw/uiQtewT.png "Applied Install Profile")
+
+See 【HOW-TO】[Install Legacy DX11 driver into Adrenalin 24.x.x and Disable DXNAVI on RDNA2 architecture](https://github.com/SimonMacer/AnWave/discussions/6)
 
 ### ※AnWave Library
 --------
 
-### 【AnWave】How to use AnWave?:https://github.com/SimonMacer/AnWave/discussions/2
-
 ### 【AnWave】NVIDIA Power Management:https://github.com/SimonMacer/AnWave/discussions/3
 
-### 【AnWave】AMD Radeon Software Customize Setup:https://github.com/SimonMacer/AnWave/discussions/4
-
-### 【AnWave】Advanced Cleanup Utility - GPU Cleanup Tool:https://github.com/SimonMacer/AnWave/discussions/5
-
-### 【HOW-TO】Install Legacy DX11 driver into Adrenalin 24.x.x and Disable DXNAVI on RDNA2 architecture (2024-09-22 Updated):https://github.com/SimonMacer/AnWave/discussions/6
-
-### 【AnWave】Windows Key-Point - Windows Settings Options Manager:https://github.com/SimonMacer/AnWave/discussions/11
-
-### 【AnWave】Cleanup or Install (UWP/DCH) Radeon Panel Only:https://github.com/SimonMacer/AnWave/discussions/12
-
-### 【AnWave】Microsoft Defender Uninstaller:https://github.com/SimonMacer/AnWave/discussions/22
-
 ### 【AMD Ryzen】AMD Ryzen CPU - Precision Boost Overdrive (PBO) Google Spreadsheets:https://github.com/SimonMacer/AnWave/discussions/13
-
-### 【HOW-TO】Restore Microsoft Dolby Digital Decoder/Encoder MFT support in Windows 11, version 24H2:https://github.com/SimonMacer/AnWave/discussions/14
-
-### 【Microsoft Defender Uninstaller】Remove Windows Defender (+ Optional Windows Apps) from the install.wim:https://github.com/SimonMacer/AnWave/discussions/25
-
-### 【Microsoft Defender】HOW-TO Disable Microsoft Defender Antivirus on Windows 10/11:https://github.com/SimonMacer/AnWave/discussions/26
-
-===================================================
-### ※AnWave Library 台灣-繁體中文
---------
-
-### 【AnWave】如何開始? 開始安裝 AMD Software: Adrenalin Edition 或 GeForce Game Ready:https://github.com/SimonMacer/AnWave/discussions/7
-
-### 【AnWave】NVIDIA Power Management 簡介:https://github.com/SimonMacer/AnWave/discussions/15
-
-### 【移除 GPU Driver】AnWave Advanced Cleanup Utility (進階清理公用程式):https://github.com/SimonMacer/AnWave/discussions/8
-
-### 【AnWave】AnWave Windows Key-Point - Windows 設定選項管理器:https://github.com/SimonMacer/AnWave/discussions/9
-
-### 【AnWave】Microsoft Defender Uninstaller - 內建防毒移除工具:https://github.com/SimonMacer/AnWave/discussions/10
-
-### 【Windows Setup】Windows 10/11 下載 & 安裝 - 跳過 TPM、安全啟動、RAM 檢查 & 建立本機帳號 & 關閉 BitLocker:https://github.com/SimonMacer/AnWave/discussions/16
-
-### 【Windows Setup】動手製作萬用 Windows 10/11 Installation Media 媒體:https://github.com/SimonMacer/AnWave/discussions/18
-
-### 【Windows Fixed】修復 Windows 11［開始］功能表無法運作。我們將在您下次登入時嘗試修復此問題。:https://github.com/SimonMacer/AnWave/discussions/17
-
-### 【Windows Update】手動停用 Windows Update (註冊碼):https://github.com/SimonMacer/AnWave/discussions/19
-
-### 【AnWave】AMD iGPU 內顯 + NVIDIA 獨顯: 如何徹底去除所有 AMD 驅動程序服務進程，徹底精簡！:https://github.com/SimonMacer/AnWave/discussions/23
 
 ===================================================
 ### ※AMD / NVIDIA Drivers Download Link
@@ -165,16 +164,6 @@ https://forum.gamer.com.tw/C.php?bsn=60030&snA=629234&tnum=0
 
 https://forum.gamer.com.tw/C.php?bsn=60030&snA=645785&tnum=1
 
-### ※Additional Link
+【其他】AnWave Advanced Cleanup Utility 專門清理 AMD 晶片組、AMD 或 NVIDIA 圖形驅動公用程式
 
-This project will be moved to GitHub. The original sourceforge.net is still open but the content will be gradually migrated.
-
-https://sourceforge.net/projects/nvidia-power-management/
-
-AnWave will call the 7-Zip DLL file to decompress the AMD/NVIDIA driver installation execution file.
-
-https://www.7-zip.org/
-
-Using Display Driver Uninstaller (DDU) to remove AMD/NVIDIA drivers requiring download of Display Driver Uninstaller (DDU) application.
-
-https://www.wagnardsoft.com/
+https://forum.gamer.com.tw/C.php?bsn=60030&snA=663817&tnum=1
