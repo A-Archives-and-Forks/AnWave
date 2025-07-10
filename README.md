@@ -47,7 +47,7 @@ Set the path to the AMD/NVIDIA driver. Press the [Extract] button to start decom
 ### ※Advanced Cleanup Utility
 In the AnWave window menu [Feature] > [Advanced Cleanup Utility Center], open the AnWave Advanced Cleanup Utility Center window and select an option for the cleaning process.
 
-* Supports for AMD Ryzen™ Chipset Driver, AMD Software: Adrenalin Edition, AMD Software: PRO Edition, AMD ROCm™ Software, NVIDIA GeForce Game Ready Driver, NVIDIA Studio Driver, NVIDIA Geforce Experience, NVIDIA App, NVIDIA Broadcast, NVIDIA FrameView, NVIDIA CUDA Toolkit and NVIDIA Power Management cleanup.
+* Supports for AMD Ryzen™ Chipset Driver, AMD Software: Adrenalin Edition, AMD Software: PRO Edition, AMD ROCm™ Software, AMD Privacy View, AMD Chatbot, AMD Install Manager, NVIDIA GeForce Game Ready Driver, NVIDIA Studio Driver, NVIDIA Geforce Experience, NVIDIA App, NVIDIA Broadcast, NVIDIA FrameView, NVIDIA CUDA Toolkit and NVIDIA Power Management cleanup.
 
 ![Advanced Cleanup Utility](https://i.meee.com.tw/oL0FsIv.png "Advanced Cleanup Utility")
 
@@ -93,6 +93,32 @@ Microsoft has removed the AC-3 codec (Dolby Digital) and WordPad features in Win
 ![Features on Demand Optional](https://i.meee.com.tw/E6UVmXK.png "Features on Demand Optional")
 
 ![Bringing back Dolby AC-3](https://i.meee.com.tw/n71R4g1.png "Bringing back Dolby AC-3")
+
+### ※Disable or Enable Memory Integrity and VBS Enablement
+
+Some applications and hardware device drivers may be incompatible with memory integrity. This incompatibility can cause devices or software to malfunction and in rare cases may result in a boot failure (blue screen). Such issues may occur after memory integrity has been turned on or during the enablement process itself. If compatibility issues occur, see [Troubleshooting](https://learn.microsoft.com/en-us/windows/security/hardware-security/enable-virtualization-based-protection-of-code-integrity?tabs=security#troubleshooting) for remediation steps.
+
+#### Run msinfo32.exe or Disable Memory Integrity and VBS Enablement in AnWave to check Credential Guard & VBS Key Isolation and Memory Integrity status.
+
+![Disable Memory Integrity and VBS Enablement](https://i.meee.com.tw/RRdAY14.png "Disable Memory Integrity and VBS Enablement")
+
+1. Run AnWave.exe. Menu > System > Disable Memory Integrity and VBS Enablement.
+
+2. Click 'Start' to disable Memory Integrity and VBS Enablement or 'Re-enable VBS and Memory Integrity' to enable Memory Integrity and VBS Enablement.
+
+> May require resetting (Facial recognition, Fingerprint recognition and PIN) Windows Hello configuration.
+
+![Windows Hello configuration](https://i.meee.com.tw/6mzUlax.png "Windows Hello configuration")
+
+3. Run Windows PowerShell, copy all the text in the text box and paste the (Ctrl + V) PowerShell, then press Enter on your keyboard.
+
+![Disable Memory Integrity and VBS Enablement powershell](https://i.meee.com.tw/6hmX5qG.png "Disable Memory Integrity and VBS Enablement powershell")
+
+4. Reboot to continue disable (re-enable) VBS Enablement.
+
+![Credential Guard Opt-out Tool](https://i.meee.com.tw/ZWkD4fR.png "Credential Guard Opt-out Tool")
+
+![VBS Opt-out Tool](https://i.meee.com.tw/wSNdkR8.png "VBS Opt-out Tool")
 
 ### ※Microsoft Defender Uninstaller
 Microsoft Defender Uninstaller is a utility tool for uninstalling Windows Defender. Microsoft Defender Uninstaller is included with AnWave, and a standalone version is also available for download. [Microsoft Defender Uninstaller Standalone Download](https://github.com/SimonMacer/AnWave/releases/tag/AnWave-Split)
