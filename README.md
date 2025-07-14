@@ -26,6 +26,10 @@ This is a personal project developed using Visual Studio 2022 C#. Includes AMD R
 
 [Download the latest release](https://github.com/SimonMacer/AnWave/releases)
 
+> I use WinRAR version 7.0 or above to compress files. It is recommended to use the latest version of WinRAR to open files.
+>
+> [WinRAR download free and support: WinRAR](https://www.win-rar.com/start.html?&L=0)
+
 ### ※Customize your AMD Software: Adrenalin Edition (Or use AnWave to install NVIDIA drivers)
 Download AMD or NVIDIA drivers
 
