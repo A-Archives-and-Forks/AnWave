@@ -79,7 +79,7 @@ DLSS Global Override Mode Recommend
 
 7. Run nvidiaDlssGlom.exe and click 'Update' button.
 
-![NVIDIA DLSS Global Override Mode](https://i.meee.com.tw/DZpuNTc.png "NVIDIA DLSS Global Override Mode")
+![NVIDIA DLSS Global Override Mode](https://i.meee.com.tw/fufl1mD.png "NVIDIA DLSS Global Override Mode")
 
 ### ※Restore Microsoft Dolby Digital Decoder/Encoder MFT (and WordPad) support in Windows 11, version 24H2
 Microsoft has removed the AC-3 codec (Dolby Digital) and WordPad features in Windows 11 24H2 or higher builds. Now, you can use this toolkit to install AC-3 codec (Dolby Digital) and WordPad FoD and re-enable these features.
